@@ -1,6 +1,11 @@
 # Exercícios - JavaScript
 
-## Este é um treinamento Git com JavaScript do curso Desenvolvedor Java do SENAI.
+## Este é um treinamento Git com JavaScript do curso Desenvolvedor Java do SENAI usando parte do projeto VoeAirlines.
+
+<div align="center">
+  <a href="https://github.com/RafaelYami/Treino-JavaScript">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelyami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 
 ### Instalar o Node: <br>
 
